@@ -10,3 +10,7 @@ Huawei ICT Academy courses and learning materials related to cloud and cybersecu
 - Cloud Basics_ Development and Basic Concepts(CRA Training Program)
 - Next-Generation Cyber Security(CRA Training Program)
 - Next-Generation Cyber Security
+
+## Certificate Preview
+
+<img src="Next-Generation Cyber Security.png" width="500">
