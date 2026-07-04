@@ -9,3 +9,7 @@ Currently studying CompTIA Security+ (SY0-701) to strengthen cybersecurity funda
 - Security Operations
 - Identity and Access Management
 - Risk Management
+
+## Learning Progress
+
+<img src="comptia-security-plus-progress.png" width="700">
